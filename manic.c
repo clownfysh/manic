@@ -378,7 +378,7 @@ unsigned long wrap_index(long virtual_index, unsigned long range)
 int main(int argc, char* argv[])
 {
   manic_t *manic;
-  unsigned char input_count = 4;
+  unsigned char input_count = 0;
   unsigned char output_count = 0;
   unsigned short node_index;
   unsigned short x;
