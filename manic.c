@@ -1,6 +1,6 @@
 /*
   manic (a simple program that dreams)
-  :: created in 2011 by zha (clownfysh@panix.com)
+  :: created in 2011 by zha (clownfysh@gmail.com)
   :: from notes made in tyler two (http://clownfysh.com/manic)
   :: gcc -O3 -o manic manic.c
 */
